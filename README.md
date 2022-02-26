@@ -1,4 +1,5 @@
 ![Logo](https://user-images.githubusercontent.com/60283532/155837384-154c3ac4-61af-45a6-a4d8-c73c2eb10e8f.png)
+
 An Icon set with minature Application Icons.
 The idea is to have a slim Plank with this icon set to minimize the use of space on the the screen.
 
